@@ -1,0 +1,501 @@
+[Workspace Header]
+Version = 1700
+Pathname = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Club Manager Tool.cws"
+CVI Dir = "/d/cvi"
+CVI Shared Dir = "/D/CVI/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2017"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "Club Manager Tool.prj"
+Drag Bar Left = 199
+Window Top = 31
+Window Left = 1
+Window Bottom = 1039
+Window Right = 1375
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 6
+Window Confinement Region Enabled = True
+MainColumnWidth = 182
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1700
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = True
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Club Manager Tool.uir"
+File Type = "User Interface Resource"
+Disk Date = 3665139630
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Height = 531
+Window Width = 1020
+Window Z-Order = 2
+
+[File 0002]
+Path = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Club Manager Tool.c"
+File Type = "CSource"
+Disk Date = 3665212671
+In Projects = "1,"
+Window Top = 126
+Window Left = 58
+Window Z-Order = 1
+Source Window State = "1,2147,2147,2147,42,66,42,0,0,135,0,1465,0,3,0,34,2128,0,2147,50,531,1020,1,0,"
+
+[File 0003]
+Path Line0001 = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Club Manager Tool-LeagueTa"
+Path Line0002 = "ble.uir"
+File Type = "User Interface Resource"
+Disk Date = 3664956070
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Height = 531
+Window Width = 1020
+Window Z-Order = 3
+
+[File 0004]
+Path = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Fixtures.uir"
+File Type = "User Interface Resource"
+Disk Date = 3664792718
+In Projects = "1,"
+Window Top = 157
+Window Left = 74
+Window Height = 531
+Window Width = 1020
+Window Z-Order = 5
+
+[File 0005]
+Path = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Tactics.uir"
+File Type = "User Interface Resource"
+Disk Date = 3665212426
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Height = 531
+Window Width = 1020
+Window Z-Order = 4
+
+[File 0006]
+Path = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Squad.uir"
+File Type = "User Interface Resource"
+Disk Date = 3665128680
+In Projects = "1,"
+Window Top = 219
+Window Left = 106
+Window Height = 471
+Window Width = 1068
+Window Z-Order = 6
+
+[File 0007]
+Path Line0001 = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Club Manager Tool-LeagueTa"
+Path Line0002 = "ble.h"
+File Type = "Include"
+Disk Date = 3664956070
+In Projects = "1,"
+Window Top = 64
+Window Left = 26
+Source Window State = "1,15,15,15,9,19,19,0,3,0,0,0,0,0,0,0,0,0,15,9,531,1020,1,0,"
+
+[File 0008]
+Path = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Fixtures.h"
+File Type = "Include"
+Disk Date = 3664792718
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0009]
+Path = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Squad.h"
+File Type = "Include"
+Disk Date = 3665128680
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[File 0010]
+Path = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Tactics.h"
+File Type = "Include"
+Disk Date = 3665212426
+In Projects = "1,"
+Source Window State = "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"
+
+[Tab Order]
+Tab 0001 = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Fixtures.uir"
+Tab 0002 = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Tactics.uir"
+Tab 0003 Line0001 = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Club Manager Tool-LeagueTa"
+Tab 0003 Line0002 = "ble.uir"
+Tab 0004 = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Club Manager Tool.uir"
+Tab 0005 = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Squad.uir"
+Tab 0006 = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Club Manager Tool.c"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = True
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Watch 1]
+Watch Expression = "fix"
+
+[Watch 2]
+Watch Expression = "fix"
+
+[Watch 3]
+Watch Expression = "fix"
+
+[Watch 4]
+Watch Expression = "fix"
+
+[Watch 5]
+Watch Expression = "fix"
+
+[Watch 6]
+Watch Expression = "fix"
+
+[Watch 7]
+Watch Expression = "fix"
+
+[Watch 8]
+Watch Expression = "fix"
+
+[Watch 9]
+Watch Expression = "x"
+
+[Watch 10]
+Watch Expression = "fix"
+
+[Watch 11]
+Watch Expression = "fix"
+
+[Watch 12]
+Watch Expression = "fix"
+
+[Watch 13]
+Watch Expression = "fix"
+
+[Watch 14]
+Watch Expression = "fix"
+
+[Watch 15]
+Watch Expression = "fix"
+
+[Watch 16]
+Watch Expression = "fix"
+
+[Watch 17]
+Watch Expression = "fix"
+
+[Watch 18]
+Watch Expression = "x"
+
+[Watch 19]
+Watch Expression = "fix"
+
+[Watch 20]
+Watch Expression = "fix"
+
+[Watch 21]
+Watch Expression = "fix"
+
+[Watch 22]
+Watch Expression = "fix"
+
+[Watch 23]
+Watch Expression = "fix"
+
+[Watch 24]
+Watch Expression = "fix"
+
+[Watch 25]
+Watch Expression = "fix"
+
+[Watch 26]
+Watch Expression = "fix"
+
+[Watch 27]
+Watch Expression = "x"
+
+[Watch 28]
+Watch Expression = "wage"
+
+[Watch 29]
+Watch Expression = "fix"
+
+[Watch 30]
+Watch Expression = "fix"
+
+[Watch 31]
+Watch Expression = "fix"
+
+[Watch 32]
+Watch Expression = "fix"
+
+[Watch 33]
+Watch Expression = "fix"
+
+[Watch 34]
+Watch Expression = "fix"
+
+[Watch 35]
+Watch Expression = "fix"
+
+[Watch 36]
+Watch Expression = "fix"
+
+[Watch 37]
+Watch Expression = "x"
+
+[Watch 38]
+Watch Expression = "fix"
+
+[Watch 39]
+Watch Expression = "fix"
+
+[Watch 40]
+Watch Expression = "fix"
+
+[Watch 41]
+Watch Expression = "fix"
+
+[Watch 42]
+Watch Expression = "fix"
+
+[Watch 43]
+Watch Expression = "fix"
+
+[Watch 44]
+Watch Expression = "fix"
+
+[Watch 45]
+Watch Expression = "fix"
+
+[Watch 46]
+Watch Expression = "x"
+
+[Watch 47]
+Watch Expression = "fix"
+
+[Watch 48]
+Watch Expression = "fix"
+
+[Watch 49]
+Watch Expression = "fix"
+
+[Watch 50]
+Watch Expression = "fix"
+
+[Watch 51]
+Watch Expression = "fix"
+
+[Watch 52]
+Watch Expression = "fix"
+
+[Watch 53]
+Watch Expression = "fix"
+
+[Watch 54]
+Watch Expression = "fix"
+
+[Watch 55]
+Watch Expression = "x"
+
+[Watch 56]
+Watch Expression = "wage"
+
+[Watch 57]
+Watch Expression = "fix"
+
+[Watch 58]
+Watch Expression = "fix"
+
+[Watch 59]
+Watch Expression = "fix"
+
+[Watch 60]
+Watch Expression = "fix"
+
+[Watch 61]
+Watch Expression = "fix"
+
+[Watch 62]
+Watch Expression = "fix"
+
+[Watch 63]
+Watch Expression = "fix"
+
+[Watch 64]
+Watch Expression = "fix"
+
+[Watch 65]
+Watch Expression = "x"
+
+[Watch 66]
+Watch Expression = "fix"
+
+[Watch 67]
+Watch Expression = "fix"
+
+[Watch 68]
+Watch Expression = "fix"
+
+[Watch 69]
+Watch Expression = "fix"
+
+[Watch 70]
+Watch Expression = "fix"
+
+[Watch 71]
+Watch Expression = "fix"
+
+[Watch 72]
+Watch Expression = "fix"
+
+[Watch 73]
+Watch Expression = "fix"
+
+[Watch 74]
+Watch Expression = "x"
+
+[Watch 75]
+Watch Expression = "fix"
+
+[Watch 76]
+Watch Expression = "fix"
+
+[Watch 77]
+Watch Expression = "fix"
+
+[Watch 78]
+Watch Expression = "fix"
+
+[Watch 79]
+Watch Expression = "fix"
+
+[Watch 80]
+Watch Expression = "fix"
+
+[Watch 81]
+Watch Expression = "fix"
+
+[Watch 82]
+Watch Expression = "fix"
+
+[Watch 83]
+Watch Expression = "x"
+
+[Watch 84]
+Watch Expression = "wage"
+
+[Watch 85]
+Watch Expression = "y"
+
+[Distributions]
+Active Index = 1
+AbsCDSPath 0001 = "/c/Users/גולן/OneDrive/שולחן העבודה/Club Manager Tool/Club Manager Tool.cds"
+RelCDSPath 0001 = "Club Manager Tool.cds"
+
